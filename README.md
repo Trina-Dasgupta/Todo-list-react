@@ -1,4 +1,4 @@
-# Demo:todo-list-add-edit-delete.netlify.app
+# Demo: https://todo-list-add-edit-delete.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
